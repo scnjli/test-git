@@ -8,4 +8,8 @@ ABCD
 文件夹
 啊啊
 ; 
+<<<<<<< master
 //modify1
+=======
+//modify1
+>>>>>>> new
